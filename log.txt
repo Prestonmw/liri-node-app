@@ -1,0 +1,33 @@
+[{"created at: ":"Tue Jul 10 22:13:41 +0000 2018","Tweets: ":"This is a random tweet!"},{"created at: ":"Mon Jul 09 22:44:41 +0000 2018","Tweets: ":"ketchup"},{"created at: ":"Mon Jul 09 22:43:25 +0000 2018","Tweets: ":"bacon"},{"created at: ":"Mon Jul 09 22:34:49 +0000 2018","Tweets: ":"whatup"},{"created at: ":"Mon Jul 09 22:34:38 +0000 2018","Tweets: ":"hello"},{"created at: ":"Mon Jul 09 22:32:14 +0000 2018","Tweets: ":"LETS GO ISLANDERS!"},{"created at: ":"Mon Jul 09 21:44:41 +0000 2018","Tweets: ":"yo"},{"created at: ":"Mon Jul 09 21:40:19 +0000 2018","Tweets: ":"lets"},{"created at: ":"Mon Jul 09 21:37:51 +0000 2018","Tweets: ":"hello!"},{"created at: ":"Sun Jul 08 15:58:03 +0000 2018","Tweets: ":"#Isles rule, everyone else sucks"},{"created at: ":"Sun Jul 08 15:57:39 +0000 2018","Tweets: ":"yo what it do"},{"created at: ":"Sun Jul 08 15:38:24 +0000 2018","Tweets: ":"This are just tweets to fill up space lol"},{"created at: ":"Sun Jul 08 15:38:06 +0000 2018","Tweets: ":"I listen to ambient electronic music while I code."},{"created at: ":"Sun Jul 08 15:37:35 +0000 2018","Tweets: ":"Did I mention I like hockey?"},{"created at: ":"Sun Jul 08 15:36:25 +0000 2018","Tweets: ":"Bacon is good for me"},{"created at: ":"Sun Jul 08 15:36:20 +0000 2018","Tweets: ":"I like coffee"},{"created at: ":"Sun Jul 08 15:36:14 +0000 2018","Tweets: ":"I love the @NYIslanders"},{"created at: ":"Sun Jul 08 15:36:05 +0000 2018","Tweets: ":"I enjoy coding and creating things!"},{"created at: ":"Sun Jul 08 15:35:51 +0000 2018","Tweets: ":"This is a dummy account that I'm using for University of Richmonds Coding Bootcamp!"},{"created at: ":"Sun Jul 08 15:35:21 +0000 2018","Tweets: ":"Yooo whats good"}]
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: 'THE SIGN'
+
+              Album Name: The Light
+
+              Artist Name: Jeremih
+
+              URL: https://open.spotify.com/album/2dPMOEn0BkN8qpGVuuA3GT
+
+
+
+
+              ================= LIRI RESULTS ==================
+
+              Song Name: 'POKER'
+
+              Album Name: The Fame
+
+              Artist Name: Lady Gaga
+
+              URL: https://open.spotify.com/album/2FBA8NCSuQNi8jaR2Xjbal
+
+
+
+
+[{"created at: ":"Tue Jan 23 19:26:42 +0000 2018","Tweets: ":"I may becoming #addicted #funko #funkopop #collector #collection… https://t.co/EtsZD6ZkwR"},{"created at: ":"Fri Mar 17 13:39:01 +0000 2017","Tweets: ":"#kissmeimirish #saintpatricksday #green #fedora #pandabear #tgif https://t.co/chfqlp20RW"},{"created at: ":"Fri Mar 03 23:59:06 +0000 2017","Tweets: ":"Here is the #legendofzelda #botw #masteredition opened! Oh the… https://t.co/TaSd0anhOL"},{"created at: ":"Sun Jan 08 01:25:19 +0000 2017","Tweets: ":"RT @longwoodu: First snow day of the year #LongwoodU #LongwoodUniversity See more on Facebook: https://t.co/V5XjzsSYlH https://t.co/0s8OmHw…"},{"created at: ":"Fri Oct 18 21:28:07 +0000 2013","Tweets: ":"RT @DaniellaMonet: The more we share with the people we care about, the more we have in the end."},{"created at: ":"Fri Oct 18 21:26:50 +0000 2013","Tweets: ":"RT @ladygaga: 72 hrs till #DoWhatUWant feat. R Kelly release. 7 days till VenusSnippet. 9 days till #Venus release. Arouse the universe ART…"},{"created at: ":"Fri Oct 18 21:26:39 +0000 2013","Tweets: ":"RT @ladygaga: 25daysTillARTPOP 'when you touch me I die, just a little inside, I wonder if this could be love, this could be love' #VENUSLy…"},{"created at: ":"Tue Oct 15 04:24:38 +0000 2013","Tweets: ":"RT @MileyCyrus: \"If only the world wouldn't get in the way. If only people would just let you play.\" ❤️ http://t.co/5L9EXZEh6G"},{"created at: ":"Thu Oct 10 02:28:15 +0000 2013","Tweets: ":"listening to #BANGERZ @MileyCyrus"},{"created at: ":"Sun Oct 06 18:48:15 +0000 2013","Tweets: ":"@RebelutionMusic great show last night fellows. Awesome time!"},{"created at: ":"Sun Oct 06 05:02:57 +0000 2013","Tweets: ":"Longwood was turnt up and jumpin tonight. Awesome show. @TravisPorter"},{"created at: ":"Fri Oct 04 14:31:39 +0000 2013","Tweets: ":"I always be sweating over these tests but then they be easy #perksofbeingsmart"},{"created at: ":"Fri Oct 04 13:33:40 +0000 2013","Tweets: ":"Waiting for my last test for the week...Thank God http://t.co/S5k7icbLHS"},{"created at: ":"Fri Oct 04 04:49:15 +0000 2013","Tweets: ":"Funny how you get a friendship started between two brats and they gang up on you and you're left standing alone. #notimeforthatshit"},{"created at: ":"Fri Oct 04 04:18:05 +0000 2013","Tweets: ":"Have my final classes ready for Spring! Just need to figure out that last econ. Almost done guys with… http://t.co/1qhXtBYJoY"},{"created at: ":"Fri Oct 04 02:15:53 +0000 2013","Tweets: ":"@NataliaKills you're an amazing artist we love you!"},{"created at: ":"Fri Oct 04 01:59:19 +0000 2013","Tweets: ":"@MileyCyrus forget her. Your doing your thing and being you and exploring and enjoying life. I dont know why everybody bashing you."},{"created at: ":"Fri Oct 04 01:57:34 +0000 2013","Tweets: ":"RT @ColIegeStudent: I live my life in a constant state of wondering if something is due tomorrow"},{"created at: ":"Fri Oct 04 01:57:00 +0000 2013","Tweets: ":"Just preordered my Queen's #ARTPOP cannot wait til November @ladygaga also order #Bangerz @MileyCyrus and #Trouble @NataliaKills"},{"created at: ":"Thu Oct 03 13:52:51 +0000 2013","Tweets: ":"Wants to try those new mcwingdings or whatever you call em."}]Title: GodzillaYear: 2014Rated: PG-13IMDB Rating: 6.4Country: USA, JapanLanguage: English, JapanesePlot: The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.Actors: Aaron Taylor-Johnson, CJ Adams, Ken Watanabe, Bryan CranstonIMDb Rating: 6.4
+
+
